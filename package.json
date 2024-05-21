@@ -1,7 +1,6 @@
 {
-  "name": "blog-backend",
+  "name": "engineering-test-backend",
   "version": "1.0.0",
-  "description": "blog backend using express and mongoDB",
   "type": "module",
   "exports": "./app.js",
   "scripts": {
